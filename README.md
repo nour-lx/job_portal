@@ -4,6 +4,7 @@ A high-performance, full-stack Spring Boot application with a premium "Deep Spac
 🌐 Live Demo: https://job-portal-noor.up.railway.app/home
 
 🛠️ Tech Stack
+
 Backend: Java 21, Spring Boot 3.4.3
 
 Frontend: Thymeleaf, HTML5, CSS3 (Custom Dark Theme)
