@@ -1,0 +1,5 @@
+com\noor\JobApp\JobController.class
+com\noor\JobApp\service\JobService.class
+com\noor\JobApp\model\JobPost.class
+com\noor\JobApp\repo\JobRepo.class
+com\noor\JobApp\JobAppApplication.class
